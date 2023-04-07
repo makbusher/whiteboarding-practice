@@ -10,4 +10,3 @@ def duplicate(string)
 end
 
 duplicate("abcdefghhijkkloooop")
-    
